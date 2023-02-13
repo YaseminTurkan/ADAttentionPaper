@@ -9,3 +9,4 @@ Please email me yasemin.turkan@isik.edu.tr if you face any issues
 The download link for
 noneADCNAttention_20200731-235716_bestW.hdf5
 https://www.dropbox.com/sh/wlmuxjvewdohskj/AAB_Y-qUsIeuTZhdr8sgcBZ-a?dl=0
+noneADCNKorolev_20200723-104400_bestW.hdf5
